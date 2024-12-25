@@ -1,14 +1,14 @@
 Esta estructura HTML detalla la página web para un hospital, donde se aplican los tres paradigmas de programación en JavaScript: funcional, orientada a eventos y orientada a objetos.
 
-[Laboratorio2, Módulo3] En el sitio web del hospital se fueron añadiendo eventos, asincronía, y estructuras basadas en clases para modelar la información del sitio.
+[LaboratorioPareja, Módulo3] En el sitio web del hospital se fueron añadiendo eventos, asincronía, y estructuras basadas en clases para modelar la información del sitio.
 
 ------CÓMO ABRIR EL ARCHIVO------
 
 -->descargar el LAB2.raw-->descomprimirlo 
--->VSC-->File-->Open Folder-->LAB 2
+-->VSC-->File-->Open Folder-->LABP
 
 ------Carpeta y subcarpetas-------
-LAB 2
+LABP2
 --images
 --JavaScript
   -estructuras.js
